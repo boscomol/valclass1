@@ -5,11 +5,11 @@
 -Valclass hadir dengan berbagai kelas dan fitur terbaru yang belum pernah ada di framework css manapun. 
 
 #keunikan
--Valclass merupakan framework asli indonesia yang dibuat oleh seorang pelajar asal Cirebon (SMKN 1 KOTA CIREBON).
+--- Valclass merupakan framework asli indonesia yang dibuat oleh seorang pelajar asal Cirebon (SMKN 1 KOTA CIREBON).
 
 
 #dokumentasi
-link dokumentasi valclass (sementara waktu) -> [https://valclass-v1.vercel.app/]
+--- link dokumentasi valclass (sementara waktu) -> [https://valclass-v1.vercel.app/]
 
 Jangan lupa dukung selalu valclass agar menjadi framework css andalan para developer web yang ada di Indonesia bahkan mancanegara. sukses!!!
 
